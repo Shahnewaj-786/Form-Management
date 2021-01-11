@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+
+body{
+    margin: 50px;
+}
 .user-form{
     width: 450px;
     margin: 100px auto 0px;
@@ -27,4 +31,8 @@
     text-transform: uppercase;
     font-weight: bold;
     cursor: pointer;
+}
+
+.user-form h2{
+    color: black;
 }
